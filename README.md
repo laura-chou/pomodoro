@@ -18,8 +18,3 @@
 ### 設定 Setting
 #### 可設定工作及休息時間、主題選擇及鈴聲選擇
 !['設定頁面圖片'](setting.jpg)
-
----
-
-## Demo
-https://laura-chou.github.io/Pomodoro/
