@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "alarms/Wolf.mp3"
   },
   {
-    "revision": "267e61096c0d846ad1ea",
+    "revision": "ff9527313b31377af4a7",
     "url": "css/app.9e746ed3.css"
   },
   {
@@ -108,12 +108,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/rabbit.png"
   },
   {
-    "revision": "3d63f94da6306ac8637fb464fa345de9",
+    "revision": "0e01abaac30b764b2297da4bbf866e0b",
     "url": "index.html"
   },
   {
-    "revision": "267e61096c0d846ad1ea",
-    "url": "js/app.1096e7d2.js"
+    "revision": "ff9527313b31377af4a7",
+    "url": "js/app.2acf44e7.js"
   },
   {
     "revision": "8f79fef76f41b4e19e94",
